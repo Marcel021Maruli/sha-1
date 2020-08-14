@@ -1,0 +1,28 @@
+{
+  "map": [
+    {
+      "name": "kulina",
+      "location": "Jalan Tuodong Atas 28, Senayan, Kebayoran Lama"
+    },
+    {
+      "name": "tugu Pancoran",
+      "location": "Jalan Letjen MT Haryono"
+    },
+    {
+      "name": "monas",
+      "location": "Gambir, Central Jakarta City, Jakarta"
+    },
+    {
+      "name": "home",
+      "location": "Jl. Tembok no.5"
+    },
+    {
+      "name": "blok m plaza",
+      "location": "Jl. Bulungan No.4, RW.6"
+    },
+    {
+      "name": "blok m square",
+      "location": "Jl. Melawai 5"
+    }
+  ]
+}

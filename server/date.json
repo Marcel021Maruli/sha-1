@@ -1,0 +1,94 @@
+{
+  "date": [
+    {
+      "day": "Jumat",
+      "dayCode": "Jum",
+      "tgl": 14 
+    },
+    {
+      "day": "Sabtu",
+      "dayCode": "Sab",
+      "tgl": 15
+    },
+    {
+      "day": "Minggu",
+      "dayCode": "Min",
+      "tgl": 16
+    },
+    {
+      "day": "Senin",
+      "dayCode": "Sen",
+      "tgl": 17
+    },
+    {
+      "day": "Selasa",
+      "dayCode": "Sel",
+      "tgl": 18
+    },
+    {
+      "day": "Rabu",
+      "dayCode": "Rab",
+      "tgl": 19
+    },
+    {
+      "day": "Kamis",
+      "dayCode": "Kam",
+      "tgl": 20
+    },
+    {
+      "day": "Jumat",
+      "dayCode": "Jum",
+      "tgl": 21
+    },
+    {
+      "day": "Sabtu",
+      "dayCode": "Sab",
+      "tgl": 22
+    },
+    {
+      "day": "Minggu",
+      "dayCode": "Min",
+      "tgl": 23
+    },
+    {
+      "day": "Senin",
+      "dayCode": "Sen",
+      "tgl": 24
+    },
+    {
+      "day": "Selasa",
+      "dayCode": "Sel",
+      "tgl": 25
+    },
+    {
+      "day": "Rabu",
+      "dayCode": "Rab",
+      "tgl": 26
+    },
+    {
+      "day": "Kamis",
+      "dayCode": "Kam",
+      "tgl": 27
+    },
+    {
+      "day": "Jumat",
+      "dayCode": "Jum",
+      "tgl": 28
+    },
+    {
+      "day": "Sabtu",
+      "dayCode": "Sab",
+      "tgl": 29
+    },
+    {
+      "day": "Minggu",
+      "dayCode": "Min",
+      "tgl": 30
+    },
+    {
+      "day": "Senin",
+      "dayCode": "Sen",
+      "tgl": 31
+    }
+  ]
+}
